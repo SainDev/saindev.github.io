@@ -2,6 +2,7 @@
   "main.js": "main.js",
   "./index.html": "./index.html",
   "logo.svg": "5d5d9eefa31e5e13a6610d9fa7a283bb.svg",
+  "CNAME": "CNAME",
   "assets/favicon.ico": "assets/favicon.ico",
   "assets/images/icons/icon-128x128.png": "assets/images/icons/icon-128x128.png",
   "assets/images/icons/icon-144x144.png": "assets/images/icons/icon-144x144.png",
